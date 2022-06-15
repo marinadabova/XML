@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Excel>
+	<ExcelOperators>
+		<Condition> Equal to</Condition>
+		<Operator> = </Operator>
+		<FormulaExample> =A1=B1 </FormulaExample>
+		<Description> The formula returns TRUE if a value in cell A1 is equal to the value in cell B1; FALSE otherwise </Description>
+	</ExcelOperators>
+	<ExcelOperators>
+		<Condition> Not equal to</Condition>
+		<Operator><![CDATA[<>]]>  </Operator>
+		<FormulaExample> <![CDATA[ =A1<>B1]]> </FormulaExample>
+		<Description> The formula returns TRUE if a value in cell A1 is not equal to the value in cell B1; FALSE otherwise </Description>
+	</ExcelOperators>
+	<ExcelOperators>
+		<Condition> Greather than</Condition>
+		<Operator> &gt; </Operator>
+		<FormulaExample> A1 &gt; B1 </FormulaExample>
+		<Description> The formula returns TRUE if a value in cell A1 is greater than a value in cell B1; FALSE otherwise </Description>
+	</ExcelOperators>
+	<ExcelOperators>
+		<Condition> Less than</Condition>
+		<Operator> &lt; </Operator>
+		<FormulaExample> A1 &lt; B1 </FormulaExample>
+		<Description> The formula returns TRUE if a value in cell A1 is less than a value in cell B1; FALSE otherwise </Description>
+	</ExcelOperators>
+	<ExcelOperators>
+		<Condition> Greather than or equal to</Condition>
+		<Operator> <![CDATA[ >=]]> </Operator>
+		<FormulaExample>  <![CDATA[ =A1>=B1 ]]></FormulaExample>
+		<Description> The formula returns TRUE if a value in cell A1 is greater than or equal to the values in cell B1; FALSE otherwise </Description>
+	</ExcelOperators>
+	<ExcelOperators>
+		<Condition> Less than or equal to </Condition>
+		<Operator><![CDATA[ <=]]>  </Operator>
+		<FormulaExample><![CDATA[  =A1<=B1]]> </FormulaExample>
+		<Description> > The formula returns TRUE if a value in cell A1 is less than or equal to the values in cell B1; FALSE otherwise </Description>
+	</ExcelOperators>
+</Excel>

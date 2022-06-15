@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books:book xmlns:books="https://www.helikon.bg"
+	    xmlns:records="https://www.records.bg">
+	<books:book>
+	<books:title> A true story</books:title>
+	<books:description> A real cool publication </books:description>
+	</books:book>
+	<records:record>
+	<records:name>Miller</records:name>
+	<records:title> Dr.</records:title>
+	<records:publications> ... </records:publications>
+	</records:record>
+</books:book>
